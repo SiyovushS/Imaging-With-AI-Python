@@ -1,0 +1,11 @@
+name: imaging-ai
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - pandas
+  - matplotlib
+  - pillow
+  - numpy
+prefix: /opt/anaconda3/envs/imaging-ai
